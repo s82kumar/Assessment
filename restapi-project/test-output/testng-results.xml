@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1238" started-at="2018-11-21T13:13:36Z" finished-at="2018-11-21T13:13:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1238" started-at="2018-11-21T13:13:36Z" finished-at="2018-11-21T13:13:37Z">
+      <class name="com.org.restapi.tests.RestApiPutTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.restapi.tests.RestApiPutTests@1d057a39]" name="setUp" is-config="true" duration-ms="8" started-at="2018-11-21T13:13:36Z" finished-at="2018-11-21T13:13:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="putCommentResourceTest()[pri:0, instance:com.org.restapi.tests.RestApiPutTests@1d057a39]" name="putCommentResourceTest" duration-ms="791" started-at="2018-11-21T13:13:36Z" finished-at="2018-11-21T13:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putCommentResourceTest -->
+        <test-method status="PASS" signature="putPostsTest()[pri:0, instance:com.org.restapi.tests.RestApiPutTests@1d057a39]" name="putPostsTest" duration-ms="211" started-at="2018-11-21T13:13:37Z" finished-at="2018-11-21T13:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putPostsTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.restapi.tests.RestApiPutTests@1d057a39]" name="setUp" is-config="true" duration-ms="0" started-at="2018-11-21T13:13:37Z" finished-at="2018-11-21T13:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="putUsersTest()[pri:0, instance:com.org.restapi.tests.RestApiPutTests@1d057a39]" name="putUsersTest" duration-ms="205" started-at="2018-11-21T13:13:37Z" finished-at="2018-11-21T13:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putUsersTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.restapi.tests.RestApiPutTests@1d057a39]" name="setUp" is-config="true" duration-ms="0" started-at="2018-11-21T13:13:37Z" finished-at="2018-11-21T13:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- com.org.restapi.tests.RestApiPutTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
